@@ -1,45 +1,45 @@
 
+E
+java:S1125J"(Remove the literal "true" boolean value.(Óñì 8Ü‰†ÄÀ0
+o
+java:S2259d"MA "NullPointerException" could be thrown; "dataVectorRango" is nullable here.(¤â²öüÿÿÿÿ8Ü‰†ÄÀ0
+D
+java:S1125W")Remove the literal "false" boolean value.(ôóó×þÿÿÿÿ
+y	java:S127`"XRefactor the code in order to not assign to this loop counter from within the loop body.(µ×ÏÑüÿÿÿÿ8Ü‰†ÄÀ0
+F
+java:S1125D")Remove the literal "false" boolean value.(ÆÛò8Í•˜ÄÀ0
+x
+java:S3923D"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ÆÛò8Ü‰†ÄÀ0
+K
+java:S1125V")Remove the literal "false" boolean value.(—Øñêøÿÿÿÿ8Ü‰†ÄÀ0
+J
+java:S1125O"(Remove the literal "true" boolean value.(»ƒªøÿÿÿÿ8Ü‰†ÄÀ0
+u	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(Ù÷Âé8Ü‰†ÄÀ0
+>
+java:S1643L"Use a StringBuilder instead.(Š’”×þÿÿÿÿ8Ü‰†ÄÀ0
+>
+java:S1643P"Use a StringBuilder instead.(Š’”×þÿÿÿÿ8Ü‰†ÄÀ0
+J
+java:S1125Z"(Remove the literal "true" boolean value.(™ƒ¿‡ùÿÿÿÿ8Ü‰†ÄÀ0
+P
+java:S1481 "3Remove this unused "excelDataRange" local variable.(¼ÒÊ…8Ü‰†ÄÀ0
+y	java:S127e"XRefactor the code in order to not assign to this loop counter from within the loop body.(µ×ÏÑüÿÿÿÿ8Ü‰†ÄÀ0
+|
+java:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(²öÔËýÿÿÿÿ8Ü‰†ÄÀ0
+E
+java:S1125c"(Remove the literal "true" boolean value.(Óñì 8Ü‰†ÄÀ0
 u
 java:S3776"SRefactor this method to reduce its Cognitive Complexity from 103 to the 15 allowed.(üè­èþÿÿÿÿ8Ü‰†ÄÀ0
 y	java:S127X"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ö¸å”ýÿÿÿÿ8Ü‰†ÄÀ0
+>
+java:S1643G"Use a StringBuilder instead.(Š’”×þÿÿÿÿ8Ü‰†ÄÀ0
 g	java:S112}"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ü‰†ÄÀ0
-J
-java:S1125Z"(Remove the literal "true" boolean value.(™ƒ¿‡ùÿÿÿÿ8Ü‰†ÄÀ0
-|
-java:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(²öÔËýÿÿÿÿ8Ü‰†ÄÀ0
-x
-java:S3923D"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ÆÛò8Ü‰†ÄÀ0
+U
+java:S1118":Add a private constructor to hide the implicit public one.(®¯êôýÿÿÿÿ
+Q
+java:S1066W"/Merge this if statement with the enclosing one.(ôóó×þÿÿÿÿ8Ü‰†ÄÀ0
 ²
 java:S1130•"“Remove the declaration of thrown exception 'org.apache.poi.openxml4j.exceptions.InvalidFormatException', as it cannot be thrown from method's body.(Ý“ýß8Ü‰†ÄÀ0
 >
-java:S1643P"Use a StringBuilder instead.(Š’”×þÿÿÿÿ8Ü‰†ÄÀ0
->
-java:S1643G"Use a StringBuilder instead.(Š’”×þÿÿÿÿ8Ü‰†ÄÀ0
-P
-java:S1481 "3Remove this unused "excelDataRange" local variable.(¼ÒÊ…8Ü‰†ÄÀ0
->
 java:S1643E"Use a StringBuilder instead.(Š’”×þÿÿÿÿ8Ü‰†ÄÀ0
-Q
-java:S1066W"/Merge this if statement with the enclosing one.(ôóó×þÿÿÿÿ8Ü‰†ÄÀ0
-K
-java:S1125V")Remove the literal "false" boolean value.(—Øñêøÿÿÿÿ8Ü‰†ÄÀ0
-D
-java:S1125W")Remove the literal "false" boolean value.(ôóó×þÿÿÿÿ
-E
-java:S1125c"(Remove the literal "true" boolean value.(Óñì 8Ü‰†ÄÀ0
-y	java:S127`"XRefactor the code in order to not assign to this loop counter from within the loop body.(µ×ÏÑüÿÿÿÿ8Ü‰†ÄÀ0
 s	java:S127]"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÉÎ´?8Ü‰†ÄÀ0
-F
-java:S1125D")Remove the literal "false" boolean value.(ÆÛò8Í•˜ÄÀ0
-E
-java:S1125J"(Remove the literal "true" boolean value.(Óñì 8Ü‰†ÄÀ0
-J
-java:S1125O"(Remove the literal "true" boolean value.(»ƒªøÿÿÿÿ8Ü‰†ÄÀ0
-U
-java:S1118":Add a private constructor to hide the implicit public one.(®¯êôýÿÿÿÿ
->
-java:S1643L"Use a StringBuilder instead.(Š’”×þÿÿÿÿ8Ü‰†ÄÀ0
-y	java:S127e"XRefactor the code in order to not assign to this loop counter from within the loop body.(µ×ÏÑüÿÿÿÿ8Ü‰†ÄÀ0
-o
-java:S2259d"MA "NullPointerException" could be thrown; "dataVectorRango" is nullable here.(¤â²öüÿÿÿÿ8Ü‰†ÄÀ0
-u	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(Ù÷Âé8Ü‰†ÄÀ0
