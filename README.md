@@ -1,7 +1,7 @@
 # README
 
 ## Features
-1. shopping through the shopping cart
+1. Shopping through the shopping cart
 2. DemoBlaze new user registration
 
 ------------------------------------------------------------
