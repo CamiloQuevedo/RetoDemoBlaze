@@ -1,6 +1,6 @@
-#README
+# README
 
-##Features
+## Features
 1. Shopping through the shopping cart
 2. New user registration in Demo blaze
 ------------------------------------------------------------
