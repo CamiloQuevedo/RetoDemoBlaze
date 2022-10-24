@@ -1,0 +1,13 @@
+
+b
+java:S1871I"LThis branch's code block is the same as the block for the branch on line 71.(Ì‡Ûä
+¯
+java:S1130%"“Remove the declaration of thrown exception 'org.apache.poi.openxml4j.exceptions.InvalidFormatException', as it cannot be thrown from method's body.(øû´“ÿÿÿÿÿ
+g
+java:S1871M"LThis branch's code block is the same as the block for the branch on line 71.(šŽÓÞúÿÿÿÿ
+E
+java:S3740,"/Provide the parametrized type for this generic.(¼§¾œ
+W
+java:S2259c"AA "NullPointerException" could be thrown; "row" is nullable here.(·ë™û
+g
+java:S1871K"LThis branch's code block is the same as the block for the branch on line 71.(•³í‹úÿÿÿÿ
